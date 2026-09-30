@@ -1,1 +1,2 @@
-# DrawnToYou
+  Just to explain, I usually write my stories directly in the Ren’Py code while I’m making the game. I might write down some ideas or notes in a notebook first, but most of the actual story, dialogue, narration, and choices I write as I’m going through the code.
+  I put the Chapter 1 and Chapter 2 code here so you can see the actual writing and how I wrote it. Together, they’re definitely over 4,000 words of storytelling.
